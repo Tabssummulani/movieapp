@@ -1,2 +1,2 @@
 # movieapp
-install npm in movieapp project with commend npm install --save
+installing packages for movieapp project need to hit command npm install --save
