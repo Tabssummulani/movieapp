@@ -1,0 +1,11 @@
+E:\Interview\PopularMovieAPI\PopularMovieAPI\bin\Debug\netcoreapp2.0\PopularMovieAPI.deps.json
+E:\Interview\PopularMovieAPI\PopularMovieAPI\bin\Debug\netcoreapp2.0\PopularMovieAPI.runtimeconfig.json
+E:\Interview\PopularMovieAPI\PopularMovieAPI\bin\Debug\netcoreapp2.0\PopularMovieAPI.runtimeconfig.dev.json
+E:\Interview\PopularMovieAPI\PopularMovieAPI\bin\Debug\netcoreapp2.0\PopularMovieAPI.dll
+E:\Interview\PopularMovieAPI\PopularMovieAPI\obj\Debug\netcoreapp2.0\PopularMovieAPI.csprojResolveAssemblyReference.cache
+E:\Interview\PopularMovieAPI\PopularMovieAPI\obj\Debug\netcoreapp2.0\PopularMovieAPI.csproj.CoreCompileInputs.cache
+E:\Interview\PopularMovieAPI\PopularMovieAPI\obj\Debug\netcoreapp2.0\PopularMovieAPI.AssemblyInfoInputs.cache
+E:\Interview\PopularMovieAPI\PopularMovieAPI\obj\Debug\netcoreapp2.0\PopularMovieAPI.AssemblyInfo.cs
+E:\Interview\PopularMovieAPI\PopularMovieAPI\bin\Debug\netcoreapp2.0\PopularMovieAPI.pdb
+E:\Interview\PopularMovieAPI\PopularMovieAPI\obj\Debug\netcoreapp2.0\PopularMovieAPI.dll
+E:\Interview\PopularMovieAPI\PopularMovieAPI\obj\Debug\netcoreapp2.0\PopularMovieAPI.pdb
